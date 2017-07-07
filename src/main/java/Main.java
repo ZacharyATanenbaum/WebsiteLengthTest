@@ -70,6 +70,8 @@ public class Main {
                         System.out.println("Please wait for query to finish");
                     }
                 }
+
+            // If not a valid website choice
             } else {
                 System.out.print("Please enter a valid website choice.");
             }
