@@ -66,6 +66,8 @@ public class Main {
 
                     if (response != -1) {
                         System.out.println(website+" "+response);
+                    } else {
+                        System.out.println("Please wait for query to finish");
                     }
                 }
             } else {
